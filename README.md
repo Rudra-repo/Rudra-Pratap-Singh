@@ -65,6 +65,21 @@
 
 # 💼 Featured Projects
 
+### 🚀 Saarthi (सaarthi)
+
+**An AI-Powered Multilingual Civic Welfare Platform**
+
+Saarthi acts as a digital "Charioteer," helping vulnerable populations overcome bureaucratic friction. Users can type their distress in natural language (e.g., *"I lost my job"*), and the platform instantly categorizes the issue and matches them with relevant government schemes and local jobs.
+
+*   **🧠 AI Architecture:** Engineered a resilient NLP layer using **Google Gemini API** with dynamic failover to **Groq (`llama-3.3-70b`)** to bypass rate limits and ensure zero downtime.
+*   **⚡ Tech Stack:** React (Vite), Context API, Tailwind CSS, Firebase (Auth & Realtime DB).
+*   **🛠️ Key Features:** Custom JSON-parsing regex utilities for LLM hallucination handling, bilingual UI (English/Hindi), optimistic UI updates, and offline resilience via Local Storage.
+*   **💡 Impact:** Strips away the complexity of cross-border and local civic data, bridging the gap between unstructured human problems and structured bureaucratic solutions.
+
+🔗 [View Repository](https://github.com/Rudra-repo/Saarthi) | [▶️ Watch Demo Video](https://drive.google.com/file/d/1MJLy4IP2g8NYjp9bQ0bsT1cTU2aDZlUK/view?usp=sharing)
+
+---
+
 ### 🛍️ NovaMart
 
 **A Premium E-Commerce Product Explorer & Cart Management App**
