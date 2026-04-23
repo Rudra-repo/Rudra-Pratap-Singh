@@ -65,6 +65,21 @@
 
 # 💼 Featured Projects
 
+### 🛍️ NovaMart
+
+**A Premium E-Commerce Product Explorer & Cart Management App**
+
+NovaMart is a sleek, Apple-inspired e-commerce web application featuring dynamic product exploration, advanced filtering, intelligent cart management, and secure checkout with validation.
+
+*   **🎨 UI/UX Design:** Glassmorphic design system with Apple-inspired Light Theme, smooth Framer Motion animations, and fully responsive mobile experience.
+*   **⚡ Tech Stack:** React 18 (Vite), React Router, Context API + localStorage, React Hook Form, Yup validation, Axios, Framer Motion, React Toastify.
+*   **🛠️ Key Features:** Real-time product filtering & sorting, debounced search bar, persistent cart & wishlist, robust checkout validation, premium CSS with Inter typography, responsive design.
+*   **📊 Languages:** JavaScript (62.4%), CSS (36.5%), HTML (1.1%).
+
+🔗 [View Repository](https://github.com/Rudra-repo/NovaMart)
+
+---
+
 ### 💰 Finance Tracker
 
 🔗 https://github.com/Rudra-repo/Web-dev-Term-2-Project-Finance-Tracker-
